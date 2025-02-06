@@ -1,0 +1,30 @@
+6 210
+Ahmet Saran 145263 Y 4
+Elektronik ELC205 4 A
+Fizik-II PHY202 3 B
+Digital DIG214 3 B
+OOP OOP207 3 A
+Zeynep Ertürk 185463 N 4
+Matematik MTH206 4 A
+Diferansiyel DIF309 3 A
+Sistemler SYS307 4 B
+Girisimcilik ENT308 4 B
+Mehmet Gürsoy 164523 Y 5
+Fizik-II PHY202 3 B
+Digital DIG214 3 B
+OOP OOP207 4 C
+Sinyaller SGN306 5 C
+Elektronik ELC205 3 B
+Ayşe Altuntaş 154875 N 3
+Diferansiyel DIF309 3 A
+Olasilik OLS306 3 A
+Digital DIG214 5 C
+Hasan Koçak 147963 Y 3
+Database DTB301 4 C
+Olasilik OLS306 3 A
+Sistemler SYS307 4 B
+Elif Başol 174530 Y 4
+Matematik MTH206 4 A
+Sinyaller SGN306 5 C
+OOP OOP207 3 B
+Girisimcilik ENT308 4 B

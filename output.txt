@@ -1,0 +1,91 @@
+Öğrenci İsmi: Ahmet Saran
+Öğrenci NO:145263
+Kayıtlı kurs sayısı: 4
+
+Kurs Sırası Kurs İsmi     Kredisi Harf Notu
+
+DIG214      Digital         3         B   
+ELC205      Elektronik      4         A   
+OOP207      OOP             3         A   
+PHY202      Fizik-II        3         B   
+
+Toplam kredi saati: 13
+Yarıyıl GPA: 3.54
+-------------------------
+
+Öğrenci İsmi: Zeynep Ertürk
+Öğrenci NO:185463
+Kayıtlı kurs sayısı: 4
+
+Kurs Sırası Kurs İsmi     Kredisi Harf Notu
+
+DIF309      Diferansiyel    3         *   
+ENT308      Girisimcilik    4         *   
+MTH206      Matematik       4         *   
+SYS307      Sistemler       4         *   
+
+Toplam kredi saati: 15
+***  Harf Notunuz, siz harcınızı ödeyene kadar beklemeye alınmıştır.  ***
+Harç Miktarınız: 3150.00
+-------------------------
+
+Öğrenci İsmi: Mehmet Gürsoy
+Öğrenci NO:164523
+Kayıtlı kurs sayısı: 5
+
+Kurs Sırası Kurs İsmi     Kredisi Harf Notu
+
+DIG214      Digital         3         B   
+ELC205      Elektronik      3         B   
+OOP207      OOP             4         C   
+PHY202      Fizik-II        3         B   
+SGN306      Sinyaller       5         C   
+
+Toplam kredi saati: 18
+Yarıyıl GPA: 2.50
+-------------------------
+
+Öğrenci İsmi: Ayşe Altuntaş
+Öğrenci NO:154875
+Kayıtlı kurs sayısı: 3
+
+Kurs Sırası Kurs İsmi     Kredisi Harf Notu
+
+DIF309      Diferansiyel    3         *   
+DIG214      Digital         5         *   
+OLS306      Olasilik        3         *   
+
+Toplam kredi saati: 11
+***  Harf Notunuz, siz harcınızı ödeyene kadar beklemeye alınmıştır.  ***
+Harç Miktarınız: 2310.00
+-------------------------
+
+Öğrenci İsmi: Hasan Koçak
+Öğrenci NO:147963
+Kayıtlı kurs sayısı: 3
+
+Kurs Sırası Kurs İsmi     Kredisi Harf Notu
+
+DTB301      Database        4         C   
+OLS306      Olasilik        3         A   
+SYS307      Sistemler       4         B   
+
+Toplam kredi saati: 11
+Yarıyıl GPA: 2.91
+-------------------------
+
+Öğrenci İsmi: Elif Başol
+Öğrenci NO:174530
+Kayıtlı kurs sayısı: 4
+
+Kurs Sırası Kurs İsmi     Kredisi Harf Notu
+
+ENT308      Girisimcilik    4         B   
+MTH206      Matematik       4         A   
+OOP207      OOP             3         B   
+SGN306      Sinyaller       5         C   
+
+Toplam kredi saati: 16
+Yarıyıl GPA: 2.94
+-------------------------
+
